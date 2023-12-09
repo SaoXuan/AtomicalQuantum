@@ -12,4 +12,7 @@ $ yarn cli mint-item <span class="hljs-comment">#quantum 0001 quantum/item-0001.
 </code></pre>
 <h2>If you need to download, here is the original file of the project</h2>
 <a href="Quantum.rar" target="_blank" rel="noopener">Click to download Quantum.rar</a>
-
+<h2>language</h2>
+<a href="README.md" target="_blank" rel="noopener">English</a>
+&nbsp;&nbsp;
+<a href="README-Chinese.md" target="_blank" rel="noopener">中文</a>
